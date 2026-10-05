@@ -1,4 +1,4 @@
-# Marvellous ParkEngine
+#ParkEngine - Parking_Lot_Management_System using Design Patterns
 
 Parking lot automation system in Java.
 
