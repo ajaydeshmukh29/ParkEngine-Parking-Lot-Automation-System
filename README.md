@@ -2,7 +2,7 @@
 
 Parking lot automation system in Java.
 
-- **Part 1 (this version):** console app + AWT/Swing GUI on top of the same classes
+- console app + AWT/Swing GUI on top of the same classes
 - Design patterns: Factory, Observer, Strategy (parking / pricing / payment), Singleton
 - Features: park vehicle, exit with billing + payment, search vehicle, live display boards
 
