@@ -3,6 +3,7 @@
 
     Project Name : "ParkEngine- ParkingLot Autoamation System"
 
+    Project Structure : 
     Step 1 : Create required enums
     Step 2 : Vehicle Hierarchy creation
     Step 3 : VehicleFactory creation (Factory Pattern)
