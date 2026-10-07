@@ -1,8 +1,7 @@
 /*
-
     Author Name : Ajay Dnyaneshwar Deshmukh
 
-    Project Name : ParkEngine- ParkingLot Autoamation System
+    Project Name : "ParkEngine- ParkingLot Autoamation System"
 
     Step 1 : Create required enums
     Step 2 : Vehicle Hierarchy creation
