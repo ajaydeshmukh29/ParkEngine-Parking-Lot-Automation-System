@@ -4,13 +4,7 @@ import java.nio.charset.StandardCharsets;
 import javax.swing.JTextArea;
 import javax.swing.SwingUtilities;
 
-/*
-    TextAreaStream
-    --------------
-    Your classes print with System.out.println(...).
-    We redirect System.out into a JTextArea, so every ticket, bill and
-    display-board message shows up inside the GUI automatically.
-*/
+
 class TextAreaStream extends OutputStream
 {
     private final JTextArea area;
