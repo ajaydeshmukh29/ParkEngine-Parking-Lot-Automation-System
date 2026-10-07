@@ -1,9 +1,9 @@
-#ParkEngine - Parking_Lot_Management_System using Design Patterns
+#ParkEngine - "A Parking_Lot_Management_System using Design Patterns"
 
 Parking lot automation system in Java.
-
+- Instead of designing fancy UI I have just add simple console using AWT/Swing Framework.
 - console app + AWT/Swing GUI on top of the same classes
-- Design patterns: Factory, Observer, Strategy (parking / pricing / payment), Singleton
+- Design patterns: Factory, Observer, Strategy (parking / pricing / payment), Singleton Design pattern/
 - Features: park vehicle, exit with billing + payment, search vehicle, live display boards
 
 ## Project structure
@@ -16,7 +16,7 @@ src/
   ParkEngineApp.java     GUI entry point
 ```
 
-## Run
+## How to Run project in System
 ```
 javac -d bin src/*.java
 java -cp bin ParkEngineApp     # GUI
